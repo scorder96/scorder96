@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scorder96
 - 👀 I’m interested in App, Web and Game development
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on something
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me scorder96@gmail.com
 
 <!---
